@@ -1,2 +1,2 @@
 # E-Commerce
-React Project ,,SAMARITELI"
+React Project
